@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Upsldev/Upsldev.github.io.git"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " 우상향 개발자 "
+masthead_title           : " 어제의 해결책은 오늘의 장애물이 될 수 있다. "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lim Jaeho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "꾸준한 성장을 위해 노력하고 있습니다."
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Upsldev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Upsldev"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

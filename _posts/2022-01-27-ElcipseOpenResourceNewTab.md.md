@@ -11,7 +11,7 @@ date: 2021-01-27
 last_modified_at: 2021-01-27
 ---
 
-> 이클립스 검색(Search)에서 File Search 후 기존 새창으로 여는 방법
+> 이클립스 검색(Search)에서 File Search 후 새창으로 여는 방법
 
 ## 1.  Window - Preferences
 

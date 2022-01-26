@@ -105,6 +105,7 @@ author:
   name             : "Lim Jaeho"
   avatar           : "/assets/images/JH/JHIMG.jpg"
   bio              : "IF(어제의 나 < 오늘의 나)<br>{ 성장 += 1 };"
+  # "성장을 위해 꾸준히 노력하는 <br> 개발자 블로그"
   location         : "Republic of Korea"
   email            :
   links:

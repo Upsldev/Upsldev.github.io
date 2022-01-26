@@ -13,7 +13,7 @@ last_modified_at: 2021-01-27
 
 > 이클립스 검색(Search)에서 File Search 후 새창으로 여는 방법
 
-## 1.  Window - Preferences
+## 1.  Window - Preferences 선택
 
 ![Elcipse_Search_01](https://user-images.githubusercontent.com/94930976/151246868-95912b9d-3e13-4184-a8ed-b33c1c687944.png)
 * 이클립스 상단의 Window - Preferences를 선택합니다.

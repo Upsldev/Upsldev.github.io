@@ -1,17 +1,16 @@
 ---
-title:  "[이클립스] 검색시 새창으로 열기"
-excerpt: "이클립스 검색시 새창 열기"
+title:  "이클립스 Search 새창으로 열기"
+excerpt: "이클립스 Search 새창으로 열기"
 
 categories:
   - Eclipse
 tags:
-  - [이클립스 검색 새창, Eclipse 검색 새창, Eclipse Search 새창, 이클립스, Eclipse, 검색, Search, 새창, NewTab, 이클립스 검색 새창]
+  - [이클립스 Search 새창, 이클립스 검색 새창, Eclipse 검색 새창, Eclipse Search 새창, 이클립스, Eclipse, 검색, Search, 새창, NewTab]
 
-date: 2021-01-27
-last_modified_at: 2021-01-27
+date: 2021-01-28
+last_modified_at: 2021-01-28
 ---
-
-> 이클립스 검색(Search)에서 File Search 후 새창으로 여는 방법
+> 이클립스 Search에서 File Search 후 새창으로 여는 방법
 
 ## 1.  Window - Preferences 선택
 

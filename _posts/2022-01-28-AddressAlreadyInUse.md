@@ -10,10 +10,10 @@ tags:
 date: 2021-01-28
 last_modified_at: 2021-01-28
 
-permalink: /Index/
+permalink: /about/
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "Index"
 ---
 
 > Address already in use : JVM_BIND 에러 해결방법

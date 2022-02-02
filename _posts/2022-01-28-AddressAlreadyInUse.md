@@ -10,8 +10,7 @@ tags:
 date: 2021-01-28
 last_modified_at: 2021-01-28
 
-permalink: /about/
-title: "About"
+permalink: /Index/
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
@@ -19,7 +18,7 @@ toc_label: "MYSELF"
 
 > Address already in use : JVM_BIND 에러 해결방법
 
-## 1.  같은 포트를 사용중인 다른 프로젝트 확인 
+## 1.  다른 프로젝트 포트 확인 
 
 * __이클립스에서 같은 포트를 사용하는 다른 프로젝트가 있는지 확인__  
 두 개의 프로젝트에서 동시에 같은 포트번호를 사용하려고 할 때  

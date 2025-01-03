@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "dirt", "dark", , "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "default" # "air", "aqua", "dirt", "dark", , "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Upside Slide Developer"
-title_separator          : "|"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Upsl"
 description              : "우상향 개발자"
@@ -262,7 +262,3 @@ defaults:
       comments: true
       share: true
       related: true
-      show_date : true
-
-
-date_format: "%Y-%m-%d"
